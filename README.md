@@ -1,6 +1,7 @@
 # Hi there, I'm [mohammadreza](https://about-me-ochre-two.vercel.app/) <img alt="hi" width="50px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 
 ## i am front-end developer
+
 <p>Here, I try to have an effective relationship with the community of programmers on the web and to be able to have a good friendly relationship in the field of the web. I try to put the best projects to show you.😎😎</p>
 
 - I am currently focusing more on training and improving my soft and hard skills.
@@ -9,6 +10,18 @@
 - Read more about my projects at [myweb](https://about-me-ochre-two.vercel.app/)
 - To the best of my ability, I can give you information about tailwindcss/js/react and all technologies related to the front end, and you can ask me.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spdfalcon&show_icons=true&theme=transparent) ![](https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif)
+---
+### 💻 This week I spent my time on
+
+[![wakatime](https://wakatime.com/badge/user/e03d872c-9506-426e-922a-9b7ed0381143.svg)](https://wakatime.com/@e03d872c-9506-426e-922a-9b7ed0381143)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## must used lang 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
 <a href=''>
 <img alt="gmail" width="50px" src="data:image/png;base64,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" />
 </a>
