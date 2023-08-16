@@ -35,18 +35,16 @@
 ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ### 📈 my github stats
-![mohammadreza GitHub stats](https://github-readme-stats.vercel.app/api?username=spdfalcon&show_icons=true&theme=transparent) ![](https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif)
----
+
+## ![mohammadreza GitHub stats](https://github-readme-stats.vercel.app/api?username=spdfalcon&show_icons=true&theme=transparent) ![](https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif)
+
 ### 💻 This week I spent my time on
+<figure><embed src="https://wakatime.com/share/@spdfalcon/a6adf229-aca5-4c52-8869-19ae62805eff.svg"></embed></figure>
 
-[![wakatime](https://wakatime.com/badge/user/e03d872c-9506-426e-922a-9b7ed0381143.svg)](https://wakatime.com/@e03d872c-9506-426e-922a-9b7ed0381143)
+## [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
----
-
-## must used lang 
+## must used lang
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
 <a href=''>
