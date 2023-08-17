@@ -41,12 +41,7 @@
 
 ### 💻 This week I spent my time on
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)]
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-[![wakatime](https://wakatime.com/badge/user/e03d872c-9506-426e-922a-9b7ed0381143.svg)](https://wakatime.com/@e03d872c-9506-426e-922a-9b7ed0381143)
-
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)
 
 ### 🏆 most used lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
