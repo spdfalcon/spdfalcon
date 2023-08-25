@@ -7,7 +7,7 @@
 - 💪 I am currently focusing more on `training` and improving my soft and hard skills.
 - 👏 I focus most on `JavaScript` programming language.
 - 💭 I really run away from bootstrap 🤢 from css frameworks and I don't think it is professional at all and I only work with `tailwindcss` 😍❤.
-- 📈 Read more `about` my projects at [MyWebsite](https://about-me-ochre-two.vercel.app/)
+- 📈 Read more `about` my projects at [***MyWebsite***](https://about-me-ochre-two.vercel.app/)
 - 💬 To the best of my ability, I can give you information about tailwindcss/js/react and all technologies related to the front end, and `you can ask me`.
 
 ### 🌹 Things I code with
