@@ -42,5 +42,5 @@
 ### 💻 This week I spent my time on
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)
 ### 🏆 most used lang
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdfalcon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdfalcon)](https://github.com/spdfalcon)
 
