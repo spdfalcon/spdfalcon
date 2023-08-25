@@ -4,7 +4,7 @@
 
 <p>Here, I try to have an effective relationship with the community of programmers on the web and to be able to have a good friendly relationship in the field of the web. I try to put the best projects to show you.😎😎</p>
 
-- 💪 I am currently focusing more on `training` and improving my soft and hard skills.
+- 💪 I am currently focusing more on **`training`** and improving my soft and hard skills.
 - 👏 I focus most on `JavaScript` programming language.
 - 💭 I really run away from bootstrap 🤢 from css frameworks and I don't think it is professional at all and I only work with `tailwindcss` 😍❤.
 - 📈 Read more `about` my projects at [***MyWebsite***](https://about-me-ochre-two.vercel.app/)
