@@ -37,7 +37,7 @@
 
 ### 📈 My github stats
 
-## ![mohammadreza GitHub stats](https://github-readme-stats.vercel.app/api?username=spdfalcon&show_icons=true&theme=transparent)      <img alt="gmail" height="195px" width="300px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
+## ![mohammadreza GitHub stats](https://github-readme-stats.vercel.app/api?username=spdfalcon&show_icons=true&theme=dracula)      <img alt="gmail" height="195px" width="300px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
 
 ### 💻 This week I spent my time on
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spdfalcon)
